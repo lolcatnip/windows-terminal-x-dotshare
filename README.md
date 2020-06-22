@@ -8,4 +8,4 @@ Color scheme adopted from [AlexAkulov/putty-color-themes](https://github.com/Ale
 
 * Open Windows Terminal settings file (`Ctrl+,`)
 * Paste contents of `scheme.json` to `"schemes": []` array
-* Add `"colorScheme": "X Dotshare"` somewhere `"profiles": {}"`
+* Add `"colorScheme": "X Dotshare"` somewhere in `"profiles": {}"`
